@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "elmito-cli"
-version = "0.1.0"
+version = "0.1.0-beta"
 description = "CLI to support basic DJ music selection process"
 authors = ["Guillermo Garcia <bitcoder@gmail.com>"]
 
